@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=Hi%2C+everyone!++I'm+João+Emmanuel.;+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<h2 align="center">HEY THERE 👋!</h2>
+<h2 align="center">HELLO WORLD 👋!</h2>
 
 ###
 
