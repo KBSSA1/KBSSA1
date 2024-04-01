@@ -1,4 +1,4 @@
-<h2 align="left">HEY THERE 👋!</h2>
+<h2 align="center">HEY THERE 👋!</h2>
 
 <div>
   <a href="https://github.com/kbssa1">
