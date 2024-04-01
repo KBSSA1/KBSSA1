@@ -6,10 +6,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbssa1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/kbssa1"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"  />
