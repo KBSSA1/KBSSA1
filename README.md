@@ -42,9 +42,10 @@
 <a href= "https://github.com/kbssa1">
 
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kbssa1&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kbssa1&layout=compact&langs_count=8&theme=synthwave"/>
+
 <a>
+  
 <p/>
 
 <picture>
