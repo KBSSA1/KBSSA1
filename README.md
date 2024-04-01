@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Emmanuel and I'm from Brazil</h2>
+<h2 align="left">HEY THERE 👋!</h2>
 
 <div>
   <a href="https://github.com/kbssa1">
