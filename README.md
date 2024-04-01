@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! My name is João Emmanuel and I'm from Brazil</h2>
 
+<div>
+  <a href="https://github.com/kbssa1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kbssa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbssa1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"  />
