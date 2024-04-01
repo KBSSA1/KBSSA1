@@ -26,6 +26,6 @@
   <a href= "https://www.youtube.com/channel/UCCFd1EM5LMDHdF2UtmkovHg" target="_blank" ><img   src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href= "https://www.instagram.com/joaoemmanuell/" target="_blank" ><img                   src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:joegomes34@gmail.com" target="_blank" ><img                                src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://twitter.com/joao_emmanuel2" target="blank" ><img                          src="https://img.shields.io/twitter/url" target="_blank" /></a>
+  <a href= "https://twitter.com/joao_emmanuel2" target="blank" ><img                          src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=gmail&logoColor=white"%20target="_blank" /></a>
 </div>
 
