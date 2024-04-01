@@ -1,10 +1,6 @@
-<h2 align="center">HEY THERE 👋!</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=Hi%2C+everyone!++I'm+João+Emmanuel.;+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<div>
-  <a href="https://github.com/kbssa1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kbssa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbssa1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h2 align="center">HEY THERE 👋!</h2>
 
 ###
 
