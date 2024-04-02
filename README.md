@@ -50,11 +50,3 @@
 
 <a>
   
-<p/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-user-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/github-user-light.svg" />
-  <img alt="github-snake" src="./images/github-user-dark.svg" />
-</picture>
-<p/>
