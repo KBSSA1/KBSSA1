@@ -57,3 +57,4 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/github-user-light.svg" />
   <img alt="github-snake" src="./images/github-user-dark.svg" />
 </picture>
+<p/>
